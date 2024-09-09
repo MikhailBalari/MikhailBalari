@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MikhailBalari
-- 
+##  👋 Mikhail Balari 
+
 ## 🚀 Digital Innovation Professional | 🌱 Continuous Learner
 
 - 💼 Regional Digital Coordinator at Unilever
